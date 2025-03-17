@@ -1,0 +1,18 @@
+.odd {
+    background-color: rgb(255, 163, 224);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.third{
+    font-size: 24px;
+}
+
+#secondele{
+    color: rgb(0, 60, 255);
+    font-size: 36px;
+}
+
+#forthele{
+    background-color: rgb(193, 255, 164);
+    font-size: 24px;
+    font-style: bold;
+}

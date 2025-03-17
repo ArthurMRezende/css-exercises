@@ -1,0 +1,14 @@
+.normal,
+.colored{
+    font-size: 24px;
+    font-family: Helvetica ,"Times New Roman", sans-serif;
+}
+
+.normal{
+    background-color: black;
+    color: white;
+}
+
+.colored{
+    background-color: yellow;
+}
